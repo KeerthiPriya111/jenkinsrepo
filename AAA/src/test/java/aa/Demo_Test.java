@@ -2,7 +2,7 @@ package aa;
 
 import org.testng.annotations.Test;
 
-public class a {
+public class Demo_Test {
 	@Test
 	public void printTest() {
 		System.out.println("hello");

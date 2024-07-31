@@ -2,7 +2,7 @@ package bb;
 
 import org.testng.annotations.Test;
 
-public class b {
+public class Sample_Test {
 
 	@Test
 	public void orgtTest() {
