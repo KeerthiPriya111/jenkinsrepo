@@ -8,4 +8,10 @@ public class Sample_Test {
 	public void orgtTest() {
 		System.out.println("execute org test");
 	}
+	
+
+	@Test
+	public void delTest() {
+		System.out.println("execute del test");
+	}
 }
