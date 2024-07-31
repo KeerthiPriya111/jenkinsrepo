@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 public class b {
 
 	@Test
-	public void orgtest() {
+	public void orgtTest() {
 		System.out.println("execute org test");
 	}
 }
